@@ -1,4 +1,4 @@
-# WebScraiping
+# WebScraping
 Scraping News Media using Python + BeautifulSoup
 
 How to:
