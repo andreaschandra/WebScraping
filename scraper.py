@@ -1,3 +1,6 @@
+import urllib3
+from bs4 import BeautifulSoup
+
 def pull_data_kompas(url, date):
     
     #Declare variable
